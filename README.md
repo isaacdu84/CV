@@ -4,6 +4,12 @@
 - **M.S., Environmental Engineering (2009)**, University of Science and Technology, Beijing, China
 - **B.S., Environmental Engineering (2006)**, University of Science and Technology, Beijing, China
 
+## Relevant course
+- Data mining
+- Data warehousing
+- Machine learning
+- Bayesian statistics
+
 ## Selected professional experience
 ### International Council on Clean Transportation (2015-2017, Washington, D.C.)
 _**Researcher**_<br />
